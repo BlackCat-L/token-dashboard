@@ -1,6 +1,10 @@
 # Claude Code Token Dashboard
 
-本地运行的 Claude Code Token 用量可视化面板。读取 Claude Code 自动保存的 JSONL 会话记录，生成交互式 HTML 报告。
+Token 用量可视化面板。全中文阅读，读取智能体Agent：Claude Code 自动保存的会话记录，生成token消耗可视化仪表盘。                                                         1.直观的展示token消耗情况，帮助用户优化模型调用                                    2.根据各个模型花费的金额，提供模型切换建议！                                       3.分析项目中哪些是冗余工具，持续优化项目。
+
+## 功能
+
+### 9 个分析维度
 
 - **零配置**：无需安装 Python 环境，只需有 [uv](https://docs.astral.sh/uv/)
 - **一键启动**：双击 `run.bat`
