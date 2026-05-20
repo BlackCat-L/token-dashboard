@@ -1,0 +1,15 @@
+# 运行时生成的文件
+*.html
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 数据库
+*.db
+
+# 系统文件
+.DS_Store
+Thumbs.db
