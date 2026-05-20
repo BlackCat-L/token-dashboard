@@ -13,3 +13,16 @@ __pycache__/
 # 系统文件
 .DS_Store
 Thumbs.db
+
+# 本地环境
+.venv/
+.vscode/
+
+# Claude 配置
+.claude/
+
+# 截图缓存
+screenshots/
+
+# Skills
+skills/
