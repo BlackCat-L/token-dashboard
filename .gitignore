@@ -21,8 +21,5 @@ Thumbs.db
 # Claude 配置
 .claude/
 
-# 截图缓存
-screenshots/
-
 # Skills
 skills/
